@@ -1,0 +1,17 @@
+Prodigy InfoTech Data Science Internship Task-03: Decision Tree
+Classifier using Bank Marketing Dataset
+
+This project includes: 1. Import Required Libraries 2. Load Dataset
+(bank.csv) 3. Data Cleaning 4. Exploratory Data Analysis (EDA) -
+Univariate Analysis - Bivariate Analysis - Correlation Analysis 5.
+Feature Selection 6. Train-Test Split 7. Decision Tree Classifier 8.
+Prediction 9. Model Evaluation 10. Decision Tree Visualization 11.
+Feature Importance 12. Save Cleaned Dataset (cleaned_bank.csv) 13. Final
+Summary and Business Insights
+
+Requirements: - Python - Pandas - NumPy - Matplotlib - Seaborn -
+Scikit-learn
+
+The notebook follows beginner-friendly coding practices, PEP-8
+guidelines, includes comments, high-quality visualizations, and
+explanations after each analysis.
