@@ -82,7 +82,7 @@ jupyter notebook decision_tree_classifier.ipynb
 ## 📬 Connect
 If you found this project useful, feel free to ⭐ the repo or connect with me for feedback and discussions on data science!
 
-- GitHub: @Raj1729verma (https://github.com/ravinder-22)
+- GitHub: @ravinder-22 (https://github.com/ravinder-22)
 - LinkedIn: Ravinder Singh (https://www.linkedin.com/in/ravinder-singh-9033b22a8)
 
 ---
